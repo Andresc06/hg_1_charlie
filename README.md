@@ -1,6 +1,6 @@
 # hg_1_charlie_Andresc06
 
-## Team Charlie
+## Team Alfa
 
 |  **Name**| **Country**   |
 | ------------ | ------------ |
