@@ -10,5 +10,5 @@
 |  Aldo Leiva |  Chile  🇨🇱 |
 
 ```diff
-+ Este es el repositorio llamado Charlie
-```
++ Este es el repositorio llamado Charlie.
+ ```
