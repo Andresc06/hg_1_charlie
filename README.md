@@ -2,9 +2,13 @@
 
 ## *Team Alfa  😎*
 
-|  **Name**| **Country**   |
+|  **Name** | **Country**   |
 | ------------ | ------------ |
 |  Yamileth Mujica | Venezuela 🇻🇪  |
 |  Federico Mendoza |  Argentina  🇦🇷 |
 |  Andres Contreras | Venezuela  🇻🇪 |
 |  Aldo Leiva |  Chile  🇨🇱 |
+
+```diff
++ Este es el repositorio llamado Charlie.
+ ```
